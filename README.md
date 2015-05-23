@@ -1,5 +1,6 @@
-# gcp-pricing-monitor
-This is a Apps Script program that will monitor the GCP pricing json file that provided by GCP calculator. 
+# GCP Pricing Monitor
+
+這是一個使用Apps Script實作的小程式，可以監控Google Cloud Platform所提供的[價格表](https://cloudpricingcalculator.appspot.com/static/data/pricelist.json)，並且在異動的時候作信件通知。
 
 ## Usage
 
